@@ -1,5 +1,6 @@
 {
   "name": "weather_pwa",
+  "homepage": "https://jay4399.github.io/weatherApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
